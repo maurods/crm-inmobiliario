@@ -1,0 +1,124 @@
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+D:\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+C:\Users\PC\Desktop\zzzzzzzzzzzzzzzzzzzzzinmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CopyComplete
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\veled\OneDrive\Escritorio\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CopyComplete
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CopyComplete
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+D:\Martin\Proyecto 2019 - Inmobiliaria\Programación\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+D:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+D:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+D:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+D:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+D:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojResolveAssemblyReference.cache
+E:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe.config
+E:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.exe
+E:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.pdb
+E:\inmobiliaria\inmobiliaria\bin\Debug\inmobiliaria.xml
+E:\inmobiliaria\inmobiliaria\bin\Debug\MySql.Data.dll
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.BusquedasPropiedadesInteresados.resources
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormPrincipal.resources
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.FormLogin.resources
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.Resources.resources
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.GenerateResource.cache
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CoreCompileInputs.cache
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CopyComplete
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.exe
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.xml
+E:\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.pdb
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbproj.CopyComplete
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\QRCoder.dll
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\System.Drawing.Common.dll
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\obj\Debug\inmobiliaria.imagenesFullPantalla.resources
+C:\Users\PC\source\repos\inmobiliaria\inmobiliaria\bin\Debug\TransControl_src.dll
